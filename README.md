@@ -15,3 +15,6 @@
 2. Скачайте файл `calculator.py`.
 3. Запустите в терминале:
 
+
+```bash
+python calculator.py
